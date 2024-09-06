@@ -1,6 +1,6 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# PucFit
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -8,15 +8,15 @@
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Ana Clara Bertoldo Anastacio Pereira](https://github.com/aluno1)
+* [Davi Willian Silva de Paula)](https://github.com/aluno2)
+* [Luis Felipe de Souza Pereira](https://github.com/aluno3)
+* [Roberto Eller Paiva](https://github.com/aluno4)
+* [Ryan Samuel Marques Parreiras](https://github.com/Ryansmp)
 
 ## Professor responsável
 
-* Nome do(a) professor(a)
+Amália Soares Vieira de Vasconcelos
 
 ## Gerenciamento do Projeto
 
@@ -44,9 +44,3 @@ Fases do Gerenciamento do Projeto:
 
 [![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
-## Informações Adicionais
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
