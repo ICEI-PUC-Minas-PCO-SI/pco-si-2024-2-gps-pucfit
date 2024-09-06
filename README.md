@@ -8,9 +8,9 @@
 
 ## Alunos integrantes da equipe
 
-* [Ana Clara Bertoldo Anastacio Pereira](https://github.com/aluno1)
+* [Ana Clara Bertoldo Anastacio Pereira](https://github.com/bertoldoa3/bertoldoa3)
 * [Davi Willian Silva de Paula)](https://github.com/aluno2)
-* [Luis Felipe de Souza Pereira](https://github.com/aluno3)
+* [Luis Felipe de Souza Pereira](https://github.com/SouzaLipes)
 * [Roberto Eller Paiva](https://github.com/repaiva)
 * [Ryan Samuel Marques Parreiras](https://github.com/Ryansmp)
 
