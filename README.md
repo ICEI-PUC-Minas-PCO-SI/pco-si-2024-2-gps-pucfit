@@ -11,7 +11,7 @@
 * [Ana Clara Bertoldo Anastacio Pereira](https://github.com/aluno1)
 * [Davi Willian Silva de Paula)](https://github.com/aluno2)
 * [Luis Felipe de Souza Pereira](https://github.com/aluno3)
-* [Roberto Eller Paiva](https://github.com/aluno4)
+* [Roberto Eller Paiva](https://github.com/repaiva)
 * [Ryan Samuel Marques Parreiras](https://github.com/Ryansmp)
 
 ## Professor responsável
