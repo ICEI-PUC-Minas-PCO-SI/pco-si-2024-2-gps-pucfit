@@ -50,33 +50,12 @@
 > Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-
+O projeto envolve o desenvolvimento de uma aplicação inovadora destinada a acompanhar e analisar as atividades físicas realizadas pelos alunos da PUC Minas, Este aplicativo irá registrar detalhadamente os exercícios realizados por cada aluno, permitindo uma visão abrangente sobre quais grupos musculares estão sendo mais trabalhados e com que frequência
 ## Justificativa
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+Além de monitorar os tipos de exercicios e as partes do corpo que estão sendo mais treinadas, a aplicação também registrará a frequência dos alunos na academia, oferecendo uma visão clara de suas rotinas de treinamento. Com isso, os usuários poderão avaliar seu progresso, identificar padrões e ajustar suas atividades para garantir um equilibrio ideal entre diferentes tipos de exercícios.
 
 ## Critérios de Sucesso
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+O produto final do aplicativo deve garantir precisão e confiabilidade na coleta e análise de dados de atividades físicas e frequência dos alunos, oferecendo desempenho rápido e responsivo. A interface deve ser intuitiva e fácil de usar, enquanto a segurança e privacidade dos dados devem ser robustamente protegidas. O aplicativo deve ser escalável, compatível com diversos dispositivos e sistemas, e fomece relatórios e análisés precisos. Além disso, deve ser de fácil manutenção e suportar integrações com outras ferramentas, garantindo também acessibilidade para todos os usuários.
 
 # Partes Interessadas
 
@@ -88,29 +67,19 @@
 > [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
+| Nome            | Posição / Cargo  | Papel Projeto   | E-mail                   | Telefone         |
+|-----------------|------------------|-----------------|--------------------------|------------------|
+| Carlos Donato   | Usuário           | Usuário         | carlos.donato@empresa.com | (11) 91234-5678  |
+| Amalia          | Professora        | Professor       | amalia@universidade.edu   | (11) 92345-6789  |
+| Diego Souza     | Funcionário       | Funcionário     | diego.souza@empresa.com   | (21) 93456-7890  |
+| Luis Felipe     | Desenvolvedor     | Dev BackEnd     | luis.felipe@empresa.com   | (21) 94567-8901  |
+| Ana Clara       | Gerente           | Gerente de Proj | ana.clara@empresa.com     | (31) 95678-9012  |
+| Ryan Samuel     | Designer          | Designer UX/UI  | ryan.samuel@empresa.com   | (31) 96789-0123  |
+| Roberto Eller   | Desenvolvedor     | Dev BackEnd     | roberto.eller@empresa.com | (41) 97890-1234  |
+| Davi William    | Desenvolvedor     | Dev FrontEND    | davi.william@empresa.com  | (41) 98901-2345  |
 
-| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
-|-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
 
 ## Avaliação das Partes Interessadas
-
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
 |                 |                        |               |                     |             |               |
@@ -184,22 +153,26 @@
 > Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
 > Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
 
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 4320 horas
+* Data de início: 01 / 09 / 2024
+* Data de término: 01 / 03 / 2025
 
 ## Escopo Preliminar e Premissas
-
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
 ## Declaração de Escopo
+
+O projeto desenvolverá uma aplicação para acompanhare analisar atividades fisicas dos alunos da PUC Minas. O escopo inclui:
+
+• **Registro de Atividades**: Implementação de funcionalidades para registrar os exercicios realizados pelos alunos
+e as partes do corpo treinadas.
+
+• **Análise e Relatórios**: Criação de ferramentas para análise detalhada dos dados, incluindo frequência de treinos e grupos musculares trabalhados, e geração de relatórios persona liza dos.
+
+• **Interface de Usuário**: Desenvolvimento de uma interface intuitiva e fácil de usar para facilitar o acesso e a
+visualização das informações.
+
+• **Segurança e Privacidade**: Implementação de medidas de segurança para proteger os dados dos usuários e garantir a privacidade.
+
+• **Compatibilidade e Escalabilidade**: Garantia de que o aplicativo seja compatível com diversos dispositivos e escalável para acomodarum número crescente de usuários.
 
 > Você pode utilizar como referência o seguinte documento:
 - [Declaração de Escopo](artefatos/declaracao-escopo.docx)
