@@ -135,98 +135,82 @@ visualização das informações.
 
 • **Compatibilidade e Escalabilidade**: Garantia de que o aplicativo seja compatível com diversos dispositivos e escalável para acomodarum número crescente de usuários.
 
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve permitir que os alunos registrem suas atividades físicas diárias | ALTA | 
+|RF-002| O sistema deve identificar e categorizar os grupos musculares trabalhados em cada exercício | MÉDIA |
+|RF-003| O aplicativo deve gerar relatórios semanais e mensais de desempenho físico dos alunos | MÉDIA |
+|RF-004| Deve ser possível para os alunos visualizar seu histórico de exercícios e progresso ao longo do tempo | MÉDIA |
+|RF-005| O aplicativo deve ter a funcionalidade de gerar alertas sobre desequilíbrios no trabalho dos grupos musculares | MÉDIA |
+|RF-006| O sistema deve permitir que os instrutores acessem os dados de exercícios de seus alunos | MÉDIA |
+|RF-007| O aplicativo deve oferecer a opção de personalizar metas de treinamento para cada aluno | MÉDIA |
+|RF-008| O sistema deve integrar-se com dispositivos de monitoramento de atividades, como smartwatches | MÉDIA |
+|RF-009| O aplicativo deve fornecer uma interface para os alunos inserirem manualmente os dados de seus exercícios | MÉDIA |
+|RF-010| O sistema deve garantir a segurança e a privacidade dos dados dos alunos | MÉDIA |
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|ID     | Descrição do Requisito                                                                                     |Prioridade |
+|-------|------------------------------------------------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve suportar até 1000 usuários simultâneos sem perda de desempenho.                             | MÉDIA     | 
+|RNF-002| O tempo de resposta do sistema deve ser inferior a 3 segundos para qualquer operação.                      | ALTA     | 
+|RNF-003| O aplicativo deve ser acessível em plataformas móveis e desktop                                            | ALTA     | 
+|RNF-004| O sistema deve estar disponível 99,5% do tempo                                                             | BAIXA     | 
+|RNF-005| O aplicativo deve ser amigável, com uma interface intuitiva e acessível para diferentes níveis de usuários | ALTA     | 
 
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as restrições do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|ID    | Descrição do Requisito                                                                             | Prioridade |
+|------|----------------------------------------------------------------------------------------------------|-------|
+|RE-001| O desenvolvimento deve ser concluído em até 6 meses (4320 horas)                                   | ALTA  | 
+|RE-002| O orçamento total não deve exceder R$ 143.500,00                                                   | ALTA |
+|RE-003| A infraestrutura de servidores deve estar hospedada em nuvem                                       | MÉDIA |
+|RE-004| O sistema deve ser desenvolvido utilizando tecnologias já dominadas pela equipe                    | MÉDIA |
+|RE-005| O aplicativo deve seguir as diretrizes de segurança de dados e privacidade estabelecidas pela LGPD | ALTA |
 
 ### Contra-Escopo
-
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
+|CE-001| O aplicativo não terá integração com redes sociais |
+|CE-002| Não haverá suporte para múltiplos idiomas no lançamento |
+|CE-003| O sistema não irá calcular calorias queimadas ou níveis de esforço físico de forma automatizada |
+|CE-004| Não haverá funcionalidades de gamificação, como recompensas por metas alcançadas |
+|CE-005| O aplicativo não oferecerá planos de treino ou dieta personalizados por profissionais externos |
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|ID    | Descrição de Condições para Início do Projeto                 | 
+|------|---------------------------------------------------------------|
+|CI-001| Aprovação e liberação do orçamento total de R$ 143.500,00     |
+|CI-002| Definição e contratação da equipe de desenvolvimento e design |
+|CI-003| Disponibilidade da infraestrutura necessária                  |
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
-
 A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
-|ID   | Marco do Projeto                                                  | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|ID   | Marco do Projeto                            | 
+|-----|---------------------------------------------|
+|M-1  | Início do desenvolvimento.                  |
+|M-2  | Conclusão do design da interface.           |
+|M-3  |  Finalização do desenvolvimento do back-end |
+|M-4  |  Conclusão do desenvolvimento do front-end  |
+|M-5  |  Fase de testes e validação                 |
+|M-6  |  Entrega final do projeto                   |
 
 ```diff
 + Tarefa 02
