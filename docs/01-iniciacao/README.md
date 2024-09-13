@@ -139,18 +139,18 @@ visualização das informações.
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| O aplicativo deve permitir que os alunos registrem suas atividades físicas diárias | ALTA | 
-|RF-002| O sistema deve identificar e categorizar os grupos musculares trabalhados em cada exercício | MÉDIA |
-|RF-003| O aplicativo deve gerar relatórios semanais e mensais de desempenho físico dos alunos | MÉDIA |
-|RF-004| Deve ser possível para os alunos visualizar seu histórico de exercícios e progresso ao longo do tempo | MÉDIA |
-|RF-005| O aplicativo deve ter a funcionalidade de gerar alertas sobre desequilíbrios no trabalho dos grupos musculares | MÉDIA |
-|RF-006| O sistema deve permitir que os instrutores acessem os dados de exercícios de seus alunos | MÉDIA |
-|RF-007| O aplicativo deve oferecer a opção de personalizar metas de treinamento para cada aluno | MÉDIA |
-|RF-008| O sistema deve integrar-se com dispositivos de monitoramento de atividades, como smartwatches | MÉDIA |
-|RF-009| O aplicativo deve fornecer uma interface para os alunos inserirem manualmente os dados de seus exercícios | MÉDIA |
-|RF-010| O sistema deve garantir a segurança e a privacidade dos dados dos alunos | MÉDIA |
+|ID    | Descrição do Requisito                                                                                         | Prioridade |
+|------|----------------------------------------------------------------------------------------------------------------|------------|
+|RF-001| O aplicativo deve permitir que os alunos registrem suas atividades físicas diárias                             | ALTA       | 
+|RF-002| O sistema deve identificar e categorizar os grupos musculares trabalhados em cada exercício                    | ALTA       |
+|RF-003| O aplicativo deve gerar relatórios semanais e mensais de desempenho físico dos alunos                          | MÉDIA      |
+|RF-004| Deve ser possível para os alunos visualizar seu histórico de exercícios e progresso ao longo do tempo          | ALTA       |
+|RF-005| O aplicativo deve ter a funcionalidade de gerar alertas sobre desequilíbrios no trabalho dos grupos musculares | MÉDIA      |
+|RF-006| O sistema deve permitir que os alunos acessem os dados offline                                                 | ALTA       |
+|RF-007| O aplicativo deve oferecer a opção de personalizar metas de treinamento para cada aluno                        | ALTA       |
+|RF-008| O sistema deve integrar-se com dispositivos de monitoramento de atividades                                     | BAIXA      |
+|RF-009| O aplicativo deve fornecer uma interface para os alunos inserirem manualmente os dados de seus exercícios      | ALTA       |
+|RF-010| O sistema deve garantir a segurança e a privacidade dos dados dos alunos                                       | ALTA       |
 
 ### Requisitos Não Funcionais
 
@@ -159,10 +159,10 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |ID     | Descrição do Requisito                                                                                     |Prioridade |
 |-------|------------------------------------------------------------------------------------------------------------|-----------|
 |RNF-001| O sistema deve suportar até 1000 usuários simultâneos sem perda de desempenho.                             | MÉDIA     | 
-|RNF-002| O tempo de resposta do sistema deve ser inferior a 3 segundos para qualquer operação.                      | ALTA     | 
-|RNF-003| O aplicativo deve ser acessível em plataformas móveis e desktop                                            | ALTA     | 
+|RNF-002| O tempo de resposta do sistema deve ser inferior a 3 segundos para qualquer operação.                      | ALTA      | 
+|RNF-003| O aplicativo deve ser acessível em plataformas móveis e desktop                                            | ALTA      | 
 |RNF-004| O sistema deve estar disponível 99,5% do tempo                                                             | BAIXA     | 
-|RNF-005| O aplicativo deve ser amigável, com uma interface intuitiva e acessível para diferentes níveis de usuários | ALTA     | 
+|RNF-005| O aplicativo deve ser amigável, com uma interface intuitiva e acessível para diferentes níveis de usuários | ALTA      | 
 
 
 ### Restrições
@@ -172,22 +172,22 @@ A tabela a seguir apresenta as restrições do projeto.
 |ID    | Descrição do Requisito                                                                             | Prioridade |
 |------|----------------------------------------------------------------------------------------------------|-------|
 |RE-001| O desenvolvimento deve ser concluído em até 6 meses (4320 horas)                                   | ALTA  | 
-|RE-002| O orçamento total não deve exceder R$ 143.500,00                                                   | ALTA |
+|RE-002| O orçamento total não deve exceder R$ 143.500,00                                                   | ALTA  |
 |RE-003| A infraestrutura de servidores deve estar hospedada em nuvem                                       | MÉDIA |
 |RE-004| O sistema deve ser desenvolvido utilizando tecnologias já dominadas pela equipe                    | MÉDIA |
-|RE-005| O aplicativo deve seguir as diretrizes de segurança de dados e privacidade estabelecidas pela LGPD | ALTA |
+|RE-005| O aplicativo deve seguir as diretrizes de segurança de dados e privacidade estabelecidas pela LGPD | ALTA  |
 
 ### Contra-Escopo
 
 A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| O aplicativo não terá integração com redes sociais |
-|CE-002| Não haverá suporte para múltiplos idiomas no lançamento |
+|ID    | Descrição do Contra-Escopo                                                                      | 
+|------|-------------------------------------------------------------------------------------------------|
+|CE-001| O aplicativo não terá integração com redes sociais                                              |
+|CE-002| Não haverá suporte para múltiplos idiomas no lançamento                                         |
 |CE-003| O sistema não irá calcular calorias queimadas ou níveis de esforço físico de forma automatizada |
-|CE-004| Não haverá funcionalidades de gamificação, como recompensas por metas alcançadas |
-|CE-005| O aplicativo não oferecerá planos de treino ou dieta personalizados por profissionais externos |
+|CE-004| Não haverá funcionalidades de gamificação, como recompensas por metas alcançadas                |
+|CE-005| O aplicativo não oferecerá planos de treino ou dieta personalizados por profissionais externos  |
 
 ### Condições para início do Projeto
 
@@ -207,10 +207,10 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |-----|---------------------------------------------|
 |M-1  | Início do desenvolvimento.                  |
 |M-2  | Conclusão do design da interface.           |
-|M-3  |  Finalização do desenvolvimento do back-end |
-|M-4  |  Conclusão do desenvolvimento do front-end  |
-|M-5  |  Fase de testes e validação                 |
-|M-6  |  Entrega final do projeto                   |
+|M-3  | Finalização do desenvolvimento do back-end  |
+|M-4  | Conclusão do desenvolvimento do front-end   |
+|M-5  | Fase de testes e validação                  |
+|M-6  | Entrega final do projeto                    |
 
 ```diff
 + Tarefa 02
