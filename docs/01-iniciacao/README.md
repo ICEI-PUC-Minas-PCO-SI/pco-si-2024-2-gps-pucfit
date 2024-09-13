@@ -55,8 +55,9 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 # Partes Interessadas
 
 ## Identificação das Partes Interessadas
+
 | Nome            | Posição / Cargo   | Papel Projeto   | E-mail                    | Telefone         |
-|-----------------|-------------------|-----------------|--------------------=------|------------------|
+|-----------------|-------------------|-----------------|---------------------------|------------------|
 | Carlos Donato   | Usuário           | Usuário         | carlos.donato@empresa.com | (11) 91234-5678  |
 | Amalia          | Professora        | Professor       | amalia@universidade.edu   | (11) 92345-6789  |
 | Diego Souza     | Funcionário       | Funcionário     | diego.souza@empresa.com   | (21) 93456-7890  |
@@ -112,15 +113,24 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Item de Custo                  | Qtd. horas | Valor / hora | Valor total   |
+|--------------------------------|------------|--------------|---------------|
+| *Recursos Humanos*             | NULL       | NULL         |*R$ 115.500,00*|
+|  - Dev Back-End                | 400        | R$ 80,00     | R$ 32.000,00  |
+|  - Dev Front-End               | 400        | R$ 80,00     | R$ 32.000,00  |
+|  - Dev Front-End               | 400        | R$ 80,00     | R$ 32.000,00  |
+|  - Design UI/UX                | 300        | R$ 65,00     | R$ 19.500,00  |
+| *Hardware*                     | NULL       | NULL         |*R$ 20.000,00* |
+| - Servidor/Materiais           | NULL       | NULL         | R$ 15.000,00  |
+| - Equipamento Desenvolvimento  | NULL       | NULL         | R$ 5.000,00   |
+|*Redes e serviços de hospedagem*| NULL       | NULL         |*R$ 3.500,00*  |
+| - Hospedagem na nuvem          | NULL       | NULL         | R$ 3.000,00   |
+| - Dominios e certificados SSL  | NULL       | NULL         | R$ 500,00     |
+| *Software de terceiros*        | NULL       | NULL         |*R$ 2.000,00*  |
+|  - Licenças de software        | NULL       | NULL         | R$ 2.000,00   |
+| *Serviços e treinamento*       | NULL       | NULL         |*R$ 2.500,00*  |
+|  - Consultoria externa         | NULL       | NULL         | R$ 2.500,00   |
+| **Total Geral**                | NULL       | NULL         | **R$ 143.500,00**|
 
 
 ## Estimativa de Prazo
