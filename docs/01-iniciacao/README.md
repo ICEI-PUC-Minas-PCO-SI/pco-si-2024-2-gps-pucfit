@@ -51,6 +51,7 @@
 
 ## Objetivos
 O projeto envolve o desenvolvimento de uma aplicação inovadora destinada a acompanhar e analisar as atividades físicas realizadas pelos alunos da PUC Minas, Este aplicativo irá registrar detalhadamente os exercícios realizados por cada aluno, permitindo uma visão abrangente sobre quais grupos musculares estão sendo mais trabalhados e com que frequência
+
 ## Justificativa
 Além de monitorar os tipos de exercicios e as partes do corpo que estão sendo mais treinadas, a aplicação também registrará a frequência dos alunos na academia, oferecendo uma visão clara de suas rotinas de treinamento. Com isso, os usuários poderão avaliar seu progresso, identificar padrões e ajustar suas atividades para garantir um equilibrio ideal entre diferentes tipos de exercícios.
 
@@ -58,13 +59,6 @@ Além de monitorar os tipos de exercicios e as partes do corpo que estão sendo 
 O produto final do aplicativo deve garantir precisão e confiabilidade na coleta e análise de dados de atividades físicas e frequência dos alunos, oferecendo desempenho rápido e responsivo. A interface deve ser intuitiva e fácil de usar, enquanto a segurança e privacidade dos dados devem ser robustamente protegidas. O aplicativo deve ser escalável, compatível com diversos dispositivos e sistemas, e fomece relatórios e análisés precisos. Além disso, deve ser de fácil manutenção e suportar integrações com outras ferramentas, garantindo também acessibilidade para todos os usuários.
 
 # Partes Interessadas
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 | Nome            | Posição / Cargo  | Papel Projeto   | E-mail                   | Telefone         |
@@ -80,16 +74,14 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 
 
 ## Avaliação das Partes Interessadas
-| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
-|-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+| Nome         | Expectativa no Projeto                           | Influência | Importância / Poder | Apoio    | Observações                                     |
+|--------------|--------------------------------------------------|------------|---------------------|----------|-------------------------------------------------|
+| Alunos       | Melhor controle de metas para exercícios         | Alta       | Alta                | Apoiador | Principal usuário do sistema                    |
+| Professores  | Acompanhamento da saúde e desempenho             | Média      | Alta                | Apoiador | Incentivar o uso para melhorar a saúde          |
+| Funcionários | Incentivo ao bem-estar no ambiente de trabalho   | Média      | Média               | Neutro   | Motivação para o uso contínuo                   |
+| Dev          | Garantir a usabilidade e a manutenção do sistema | Alta       | Alta                | Apoiador | Responsável pelo desenvolvimento e manutenção   |
+| GP           | Gestão e acompanhamentos de metas                | Alta       | Alta                | Apoiador | Responsável pelo desenvolvimento e manutenção   |
+| Ux/Ui        | Garantir a melhor interação com o usuário        | Média      | Média               | Apoiador | Entender o que melhor incentivaria o uso do app |
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.
