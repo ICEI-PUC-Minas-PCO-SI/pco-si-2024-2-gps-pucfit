@@ -41,13 +41,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+O problema que esse projeto busca resolver é a falta de acompanhamento detalhado das atividades físicas dos alunos da PUC Minas. Atualmente, pode ser difícil para os alunos saberem quais grupos musculares estão sendo mais trabalhados e com que frequência, o que pode resultar em treinos desequilibrados ou pouco eficientes. Além disso, a ausência de uma ferramenta de monitoramento impede que os alunos tenham uma visão clara do progresso em seus exercícios, o que pode dificultar o alcance de seus objetivos de saúde e desempenho físico. 
 
 ## Objetivos
 O projeto envolve o desenvolvimento de uma aplicação inovadora destinada a acompanhar e analisar as atividades físicas realizadas pelos alunos da PUC Minas, Este aplicativo irá registrar detalhadamente os exercícios realizados por cada aluno, permitindo uma visão abrangente sobre quais grupos musculares estão sendo mais trabalhados e com que frequência
@@ -61,8 +55,8 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 # Partes Interessadas
 
 ## Identificação das Partes Interessadas
-| Nome            | Posição / Cargo  | Papel Projeto   | E-mail                   | Telefone         |
-|-----------------|------------------|-----------------|--------------------------|------------------|
+| Nome            | Posição / Cargo   | Papel Projeto   | E-mail                    | Telefone         |
+|-----------------|-------------------|-----------------|--------------------=------|------------------|
 | Carlos Donato   | Usuário           | Usuário         | carlos.donato@empresa.com | (11) 91234-5678  |
 | Amalia          | Professora        | Professor       | amalia@universidade.edu   | (11) 92345-6789  |
 | Diego Souza     | Funcionário       | Funcionário     | diego.souza@empresa.com   | (21) 93456-7890  |
@@ -82,14 +76,6 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 | Dev          | Garantir a usabilidade e a manutenção do sistema | Alta       | Alta                | Apoiador | Responsável pelo desenvolvimento e manutenção   |
 | GP           | Gestão e acompanhamentos de metas                | Alta       | Alta                | Apoiador | Responsável pelo desenvolvimento e manutenção   |
 | Ux/Ui        | Garantir a melhor interação com o usuário        | Média      | Média               | Apoiador | Entender o que melhor incentivaria o uso do app |
-
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
 
 ```diff
 + Tarefa 01
