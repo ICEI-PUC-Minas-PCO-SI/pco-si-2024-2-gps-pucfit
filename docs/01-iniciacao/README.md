@@ -1,12 +1,5 @@
 # Iniciação
 
-> A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
-> Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
-> É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
-> Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
-> Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
-> O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
-
 # Estrutura do Documento
 
 - [Fase de Iniciação](#iniciação)
@@ -92,26 +85,10 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
-
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A estimativa de custo total para o desenvolvimento do projeto é de R$ 143.500,00, distribuída em várias categorias essenciais. Os maiores gastos estão alocados em Recursos Humanos, totalizando R$ 115.500,00, com destaque para o trabalho de desenvolvedores Back-End e Front-End, cada um com 400 horas de dedicação a um valor de R$ 80,00 por hora, além do trabalho de design UI/UX com 300 horas a R$ 65,00 por hora. Outros custos significativos incluem Hardware no valor de R$ 20.000,00, destinado a servidores e equipamentos de desenvolvimento. Redes e serviços de hospedagem somam R$ 3.500,00, cobrindo hospedagem na nuvem e certificações SSL. Licenças de Software de terceiros custam R$ 2.000,00, e Serviços e treinamento, como consultoria externa, representam R$ 2.500,00. Esses valores refletem a infraestrutura e expertise necessárias para garantir o sucesso do projeto.
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo                  | Qtd. horas | Valor / hora | Valor total   |
 |--------------------------------|------------|--------------|---------------|
@@ -135,11 +112,7 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
+A estimativa de prazo para a conclusão do projeto é de 4320 horas, com início em 01 de setembro de 2024 e término previsto para 01 de março de 2025. Este cronograma compreende um período de seis meses, durante os quais as equipes de desenvolvimento, design e infraestrutura trabalharão para atender aos requisitos do projeto. A alocação das horas será distribuída entre as diversas fases do desenvolvimento, como planejamento, design de interface, codificação back-end e front-end, testes e implementação. Esse prazo considera a complexidade do projeto e a dedicação dos profissionais envolvidos, garantindo que o produto final seja entregue com qualidade e dentro do tempo estipulado.
 
 * Prazo previsto (em horas): 4320 horas
 * Data de início: 01 / 09 / 2024
@@ -161,9 +134,6 @@ visualização das informações.
 • **Segurança e Privacidade**: Implementação de medidas de segurança para proteger os dados dos usuários e garantir a privacidade.
 
 • **Compatibilidade e Escalabilidade**: Garantia de que o aplicativo seja compatível com diversos dispositivos e escalável para acomodarum número crescente de usuários.
-
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 > Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 >
