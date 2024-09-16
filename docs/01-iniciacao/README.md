@@ -225,46 +225,31 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A metodologia ágil utilizada neste projeto será baseada no Scrum, uma das abordagens mais populares no desenvolvimento de software. O projeto será dividido em sprints de duas semanas, permitindo entregas contínuas e incrementais de funcionalidades. Cada sprint incluirá as etapas de planejamento, desenvolvimento, revisão e retrospectiva, promovendo melhorias contínuas no processo. A equipe, composta por desenvolvedores, designers e gestores, terá reuniões diárias (Daily Stand-ups) para alinhar o progresso e ajustar tarefas conforme necessário. O uso dessa metodologia garante flexibilidade para adaptar o escopo do projeto conforme surgem novas demandas ou feedback dos usuários, além de garantir uma comunicação eficiente entre todos os envolvidos, minimizando riscos e atrasos.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+| Nome            | Papel   | Responsabilidade |
+|-----------------|-------------------|-------------------|
+| Carlos Donato | Usuário final | Feedback sobre a usabilidade, relatar problemas encontrados e validar se o sistema atende às necessidades diárias dos usuários |
+| Amalia | Representante dos professores | Garantir que o sistema ofereça funcionalidades adequadas para acompanhamento dos alunos |
+| Diego Souza | Funcionário de apoio | Apoiar na implementação e manutenção do sistema, garantindo que o aplicativo funcione conforme as demandas operacionais |
+| Luis Felipe | Desenvolvedor Back-End | Desenvolvimento da lógica de negócio, banco de dados e APIs, garantindo o funcionamento eficiente e seguro |
+| Ana Clara | Gerente de Projeto | Coordenar o planejamento, execução e controle do projeto, gerenciar prazos, orçamentos e comunicação entre todas as partes |
+| Ryan Samuel | Designer UX/UI | Criar e validar interfaces intuitivas e funcionais, garantindo a melhor experiência do usuário e a coerência visual |
+| Roberto Eller | Desenvolvedor Back-End | Desenvolvimento da lógica de negócio, banco de dados e APIs, garantindo o funcionamento eficiente e seguro |
+| Davi William | Desenvolvedor Front-End | Desenvolver a interface do usuário fluida e responsiva, integrando o design com a lógica de back-end|
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
-
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Quadro Kanban | Github | [https://github.com](https://github.com/) | Centralização e organização do projeto no próprio repositório. |
+| Repositório de código | GitHub | [https://github.com](https://github.com/) | Utilizado para versionamento de código e colaboração entre desenvolvedores |
+| Protótipo | Figma | [https://figma.com](https://figma.com/)  | Ferramenta de design colaborativo baseada em nuvem |
+| Banco de Dados | MySQL | [https://mysql.com](https://www.mysql.com/) | Banco de dados relacional de código aberto, amplamente utilizado e confiável |
+| IDE | Visual Studio Code | [https://visualstudio.com](https://code.visualstudio.com/) | Ferramenta gratuita, leve, suporta extensões para diversas linguagens |
+
 
 ```diff
 + Tarefa 03:
