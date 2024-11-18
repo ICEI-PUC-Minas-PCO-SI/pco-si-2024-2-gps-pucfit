@@ -1,11 +1,5 @@
 # Planejamento
 
-> A fase de planejamento na gerência de projetos é um momento onde os detalhes do projeto são minuciosamente definidos para garantir uma execução bem-sucedida. 
-> Durante essa etapa, os gerentes de projeto e suas equipes elaboram um plano abrangente que aborda aspectos como cronograma, orçamento, recursos necessários, riscos identificados e métodos de controle. 
-> O objetivo é criar uma estrutura que guiará as atividades ao longo do projeto, garantindo que metas sejam alcançadas de maneira eficiente. 
-> O plano de projeto não apenas define as tarefas específicas e suas interdependências, mas também estabelece critérios de sucesso e indicadores de desempenho. 
-> A qualidade do planejamento influencia diretamente a capacidade da equipe em cumprir prazos, alocar recursos eficientemente e lidar com desafios que possam surgir durante a execução.
-
 # Estrutura do Documento
 
 - [Fase de Planejamento](#planejamento)
@@ -28,37 +22,38 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Iniciação: Aprovação do escopo e requisitos, disponibilidade de recursos, contratos e acordos com os fornecedores,
+planejamento e cronograma, definição dos recursos humanos (equipe de desenvolvimento), levantamento de requisitos iniciais,
+identificação das partes interessadas.
+• Planejamento: Definição do escopo detalhado, cronograma, plano de recursos, orçamentos, definição de como será feita a
+comunicação entre as partes.
+• Modelagem: Especificação funcional, desenho da arquitetura do sistema, protótipação, validação com stakeholders
+• Construção/Desenvolvimento: Desenvolvimento do código, testes unitários e de integração, ajustes e iterações, testes beta.
+• Entrega: Testes finais e homologação, treinamento dos usuários, documentação final, implementação e lançamento oficial,
+suporte pós entrega
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
+Limites do projeto (o que não será feito)
+• Não será possível o agendamento de videochamadas com um personal para receber
+uma planilha de treinos.
+• Não será possível o acesso por dispositivos desktops ou navegador web;
+• Não será possível a comunicação entre alunos pelo aplicativo.
+• Não serão projetados ou fabricados dispositivos de monitoramento ou sensores
+
+Restrições (o que restringe/condiciona o projeto)
+• Prazo fixo de 6 meses
+• Orçamento limitado
+• Acesso restrito a PUC Minas
+• Conformidade co LGPD
+
+Premissas (condições para iniciar o projeto)
+• Aprovação rápida
+• Infraestrutura adequada
+• Aderência dos alunos da PUC Minas
+• Suporte Técnico pós lançamento 
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
-> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
-
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
-![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
-
-> Softwares recomendados: 
-> * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
-> * [Draw.io](https://app.diagrams.net/)
-> * [ProjectLibre](https://www.projectlibre.com/)
-
-### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Estrutura Analítica do Projeto - Editável](artefatos/estrutura_analitica_projeto.wbs)
+![EAP](https://github.com/user-attachments/assets/05d213e2-ae69-4cf3-9d9b-0c3b85a35ce9)
 
 ```diff
 + Tarefa 04:
@@ -92,11 +87,6 @@
 
 ![Matriz RACI](images/raci.png)
 
-
-### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
-- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
 
 ```diff
 + Tarefa 05:
