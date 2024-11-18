@@ -126,18 +126,11 @@ Premissas (condições para iniciar o projeto)
 
 # Orçamento do Projeto
 
-......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
-
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+O orçamento do projeto foi elaborado para garantir a alocação eficiente dos recursos financeiros ao longo de seis fases: Inicialização, Planejamento, Modelagem, Desenvolvimento, Entrega e Pós-entrega, totalizando R$ 249.230,00. Cada etapa considera custos diretos e indiretos, abrangendo desde o planejamento inicial até o suporte pós-entrega, com destaque para o Desenvolvimento, fase mais longa e dispendiosa (R$ 121.800,00). O planejamento financeiro inclui análise de riscos e imprevistos, assegurando transparência, controle de custos e alinhamento com as expectativas econômicas e operacionais, contribuindo para o sucesso do projeto dentro do prazo e do orçamento previstos.
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Orçamento do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto - Editável](artefatos/Orcamento.mpp)
 
 ```diff
 + Tarefa 08:
