@@ -140,102 +140,67 @@ O orçamento do projeto foi elaborado para garantir a alocação eficiente dos r
 # Planos de Gerenciamento
 
 > Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
-> Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
+> Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, , recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
 > Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
 
 ```diff
 + Tarefa 09:
-+ Checklist de Qualidade
++ Checklist de 
 ```
 
-## Plano de Qualidade
+## Plano de 
 
-...... DESCREVA SUCINTAMENTE O PLANO DE QUALIDADE UTILIZADO NO PROJETO ......
+...... DESCREVA SUCINTAMENTE O PLANO DE  UTILIZADO NO PROJETO ......
 
-> O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
-> Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
-> Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
-> A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
+# Plano de Qualidade
 
-> Referência - Conceitual
-> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
+**Disciplina:** Gerência de Projetos de Software  
+**Projeto:** Puc Training  
+**Gerente do Projeto:** Ana Clara Bertoldo  
 
-> Normas de Qualidade:
-> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
-> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
+## Artefatos a serem verificados
 
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
+| Artefato                     | Tipo de Verificação    | Data       | Responsável   | Métrica Aplicada               | Data Limite para Correção | Ação para Não Conformidade                      | Responsável pela Avaliação | Responsável pela Correção |
+|------------------------------|------------------------|------------|---------------|--------------------------------|----------------------------|------------------------------------------------|----------------------------|----------------------------|
+| Design APP                  | Revisão de usabilidade | 26/09/2025 | Ryan Samuel   | Satisfação do usuário          | 07/10/2025                 | Reavaliar design para melhor experiência       | Ana Clara Bertoldo         | Ryan Samuel                |
+| Protótipo web               | Teste de navegação     | 07/10/2025 | Ryan Samuel   | Intuitividade da navegação     | 09/10/2024                 | Melhorar intuitividade da navegação           | Ana Clara Bertoldo         | Ryan Samuel                |
+| Tela Login                  | Teste funcional        | 01/01/2025 | Davi William  | Taxa de sucesso de login       | 08/01/2025                 | Revisar validação de credenciais              | Luis Felipe                | Davi William               |
+| Tela inicial                | Teste de usabilidade   | 01/01/2025 | Ryan Samuel   | Satisfação do usuário          | 08/01/2025                 | Ajustar layout e navegação                    | Luis Felipe                | Davi William               |
+| Tela Cadastro exercícios    | Teste funcional        | 03/01/2025 | Davi William  | Validação de campos            | 10/01/2025                 | Corrigir validação e mensagens de erro        | Luis Felipe                | Davi William               |
+| Tela perfil pessoal         | Teste de segurança     | 03/01/2025 | Davi William  | Verificação de permissões      | 10/01/2025                 | Revisar permissões e autenticação             | Roberto Eller              | Davi William               |
+| Tela cálculo IMC            | Teste funcional        | 06/01/2025 | Luis Felipe   | Precisão do cálculo            | 09/01/2025                 | Corrigir fórmula e verificar unidade de medida| Roberto Eller              | Davi William               |
+| Tela calendário de treinos  | Teste de usabilidade   | 07/01/2025 | Ryan Samuel   | Intuitividade da interface     | 21/01/2025                 | Ajustar navegação e visualização de eventos   | Roberto Eller              | Davi William               |
+| Modal ver dados treinos passados | Teste funcional   | 07/01/2025 | Luis Felipe   | Tempo de carregamento          | 25/01/2024                 | Otimizar consulta e carregamento de dados     | Roberto Eller              | Luis Felipe                |
+| Dados de Usuário            | Teste de segurança     | 01/01/2025 | Luis Felipe   | Conformidade com LGPD          | 08/01/2025                 | Implementar anonimização e criptografia       | Davi William               | Luis Felipe                |
+| Registros de Atividades e Logs | Teste de segurança  | 09/01/2025 | Roberto Eller | Retenção de logs               | 24/01/2025                 | Ajustar política de retenção e acesso         | Davi William               | Roberto Eller              |
+| Informações Transacionais   | Teste de integridade   | 09/01/2025 | Roberto Eller | Confiabilidade dos dados       | 27/01/2025                 | Ajustar política de retenção e acesso         | Luis Felipe                | Davi William               |
+| Informações de Dispositivo  | Teste de segurança     | 10/01/2025 | Roberto Eller | Proteção de dados              | 30/01/2025                 | Restringir coleta de dados sensíveis          | Roberto Eller              | Roberto Eller              |
+| Dados Relacionados ao Funcionamento da Aplicação | Teste de desempenho | 15/01/2025 | Luis Felipe | Performance da aplicação       | 31/01/2025                 | Otimizar consultas e reduzir tempo de resposta| Davi William               | Luis Felipe                |
+| Suporte inicial             | Monitoramento e Feedback dos Usuários | 21/02/2025 | Consultoria externa | Solução de tickets menor que 24h | Imediato                  | Treinamento adicional e atualização da documentação | Gerente de projeto (Ana Clara) | Consultoria externa |
 
-> Processos de Garantia da Qualidade de Software
-> * https://ceur-ws.org/Vol-3200/paper22.pdf
-> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
-> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
-> * https://www.projectmanager.com/blog/quality-assurance-and-testing
+## Padrões e Normas Utilizados
 
-> Você pode utilizar como referência o seguinte documento:
-> [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
+| Nome                    | Descrição                                                   |
+|-------------------------|-------------------------------------------------------------|
+| ISO/IEC 9126            | Norma para avaliação de qualidade de software, usada para requisitos de qualidade. |
+| Norma de Desenvolvimento Ágil | Metodologia ágil com foco na entrega incremental e ajustes contínuos. |
 
-### Artefatos a serem verificados
+## Ambiente das Atividades de Qualidade
 
-| Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
-|------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+- **Desenvolvimento e Testes:** Realizados em ambiente simulado, com capacidade de representar condições reais.  
+- **Ambiente de Homologação:** Plataforma configurada para testes finais antes do lançamento.  
+- **Ambiente de Produção:** Plataforma onde será lançado o aplicativo para uso dos alunos.  
 
-### Padrões e Normas Utilizadas
+## Equipe da Qualidade
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-
-### Ambiente das Atividades de Qualidade
-
-| Ambiente   | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-
-### Equipe de Qualidade
-
-| Nome       | Responsabilidade | 
-|------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-
-### Metodologias de Qualidade Utilizadas
-
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-
-```diff
-+ Tarefa 09:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 10:
-+ Especificação de Produto para Aquisição
-```
+| Nome           | Responsabilidades            |
+|----------------|------------------------------|
+| Luis Felipe    | Desenvolvedor               |
+| Davi William   | Desenvolvedor               |
+| Ryan Samuel    | Design UX/UI                |
+| Roberto Eller  | Desenvolvedor               |
+| Ana Clara Bertoldo | Gerente de projetos     |
 
 ## Plano de Aquisição
 
