@@ -318,8 +318,6 @@ O orçamento do projeto foi elaborado para garantir a alocação eficiente dos r
 
 O plano de riscos visa garantir a identificação, análise e resposta eficaz aos desafios que podem surgir durante o desenvolvimento do aplicativo de monitoramento de atividades físicas para os alunos da PUC Minas. O foco principal está em reduzir as incertezas e proteger os objetivos do projeto.
 
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
