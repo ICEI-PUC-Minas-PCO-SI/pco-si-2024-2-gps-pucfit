@@ -86,17 +86,57 @@ Premissas (condições para iniciar o projeto)
 
 # Cronograma do Projeto
 
-......  DESCREVA EM LINHAS GERAIS O CRONOGRAMA DO SEU PROJETO AQUI ......
+1. Inicialização (6 dias)
+- Desenvolvimento do termo de abertura (2 dias):*Definir o objetivo e o escopo inicial do projeto.
+- Levantamento das partes interessadas (1 dia):Identificar os principais stakeholders.
+- Definição de recursos humanos (1 dia): Alocar os profissionais necessários.
+- Definição de escopo (2 dias): Delimitar as atividades do projeto.
+- Preparação e KickOff Meeting (4 horas): Reunião para formalizar o início do projeto.
 
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
+Marco 1: Finalização da fase de inicialização.
+
+2. Planejamento (12 dias)
+- Levantamento de requisitos funcionais e não funcionais (6 dias): Definir o que o sistema deve realizar e as condições necessárias.
+- Definição do cronograma (1 dia): Estabelecer o calendário do projeto.
+- Plano de recursos (6 horas): Detalhar os recursos necessários.
+- Orçamento (2 dias): Planejamento financeiro do projeto.
+- Criação e aprovação do plano do projeto (2 dias): Documentação e validação do planejamento.
+
+Marco 2: Aprovação do plano.
+
+
+3. Modelagem (9 dias)
+- Criação da arquitetura técnica (3 dias): Desenvolver a base estrutural do sistema.
+- Design de interfaces (UX/UI) (7 dias): Elaborar as interfaces do usuário.
+- Desenvolvimento do protótipo Front-End (2 dias): Primeira versão visual do sistema.
+
+Marco 3: Conclusão da modelagem.
+
+4. Desenvolvimento (82 dias)
+- Desenvolvimento Mobile (650 horas): Construção das funcionalidades do sistema.
+- Integração com banco de dados (10 dias): Conexão do sistema às bases de dados.
+
+Marco 4: Finalização do desenvolvimento.
+
+5. Entrega e Testes (15 dias)
+- Teste beta com alunos e feedback (7 dias): Avaliação do sistema por usuários.
+- Ajustes finais e homologação (6 dias): Realizar melhorias e validações finais.
+- Implementação na rede PUC (2 dias): Lançamento do sistema.
+- Treinamento gravado (1 dia): Criar materiais de apoio.
+
+Marco 5: Entrega oficial do sistema.
+
+6. Pós-entrega (11 dias)
+- Suporte inicial e resolução de problemas (7 dias): Auxílio e correções pós-implantação.
+- Atualizações de manutenção (3 dias): Realizar ajustes contínuos.
+- Avaliação final e fechamento (1 dia): Concluir e documentar o projeto.
+
+Marco 6: Encerramento do projeto.
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+[Cronograma do Projeto](https://github.com/user-attachments/files/17852603/Projeto.puc.Training.pdf)
+
 
 ```diff
 + Tarefa 07:
