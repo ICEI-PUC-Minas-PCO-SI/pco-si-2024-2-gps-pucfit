@@ -232,9 +232,8 @@ O orçamento do projeto foi elaborado para garantir a alocação eficiente dos r
 
 [Plano de Aquisição PDF](https://github.com/user-attachments/files/17852434/Template.-.Solicitacao.de.compra.-.corrigido.pdf)
 
-
 ### Documento Editável
-
+[Plano de Aquisição editavél](https://docs.google.com/document/d/1UQjmyVtPL_-MGcNb_FXhEbOyI8LPPknP6C9EpwTjCCs/edit?tab=t.0)
 
 ```diff
 + Tarefa 10:
