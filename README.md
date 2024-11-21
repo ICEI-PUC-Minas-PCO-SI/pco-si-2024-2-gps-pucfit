@@ -2,9 +2,9 @@
 
 # PucFit
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Este projeto consiste no desenvolvimento de um aplicativo inovador que permite aos alunos da PUC Minas registrar e acompanhar suas atividades físicas realizadas na academia da universidade. A aplicação visa promover a saúde e o bem-estar ao fornecer informações personalizadas sobre frequência e áreas do corpo mais treinadas, auxiliando os usuários a otimizar seus treinos.
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+Com uma interface intuitiva e funcionalidades baseadas em análise de dados, o sistema também gera relatórios detalhados e fornece insights que incentivam a prática regular de exercícios. Este repositório contém toda a documentação, código-fonte e ferramentas utilizadas ao longo do desenvolvimento do projeto, garantindo a transparência e o alinhamento com os objetivos propostos.
 
 ## Alunos integrantes da equipe
 
