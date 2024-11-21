@@ -25,31 +25,32 @@
 Iniciação: Aprovação do escopo e requisitos, disponibilidade de recursos, contratos e acordos com os fornecedores,
 planejamento e cronograma, definição dos recursos humanos (equipe de desenvolvimento), levantamento de requisitos iniciais,
 identificação das partes interessadas.
-• Planejamento: Definição do escopo detalhado, cronograma, plano de recursos, orçamentos, definição de como será feita a
+
+- Planejamento: Definição do escopo detalhado, cronograma, plano de recursos, orçamentos, definição de como será feita a
 comunicação entre as partes.
-• Modelagem: Especificação funcional, desenho da arquitetura do sistema, protótipação, validação com stakeholders
-• Construção/Desenvolvimento: Desenvolvimento do código, testes unitários e de integração, ajustes e iterações, testes beta.
-• Entrega: Testes finais e homologação, treinamento dos usuários, documentação final, implementação e lançamento oficial,
+- Modelagem: Especificação funcional, desenho da arquitetura do sistema, protótipação, validação com stakeholders
+- Construção/Desenvolvimento: Desenvolvimento do código, testes unitários e de integração, ajustes e iterações, testes beta.
+- Entrega: Testes finais e homologação, treinamento dos usuários, documentação final, implementação e lançamento oficial,
 suporte pós entrega
 
 Limites do projeto (o que não será feito)
-• Não será possível o agendamento de videochamadas com um personal para receber
+- Não será possível o agendamento de videochamadas com um personal para receber
 uma planilha de treinos.
-• Não será possível o acesso por dispositivos desktops ou navegador web;
-• Não será possível a comunicação entre alunos pelo aplicativo.
-• Não serão projetados ou fabricados dispositivos de monitoramento ou sensores
+- Não será possível o acesso por dispositivos desktops ou navegador web;
+- Não será possível a comunicação entre alunos pelo aplicativo.
+- Não serão projetados ou fabricados dispositivos de monitoramento ou sensores
 
 Restrições (o que restringe/condiciona o projeto)
-• Prazo fixo de 6 meses
-• Orçamento limitado
-• Acesso restrito a PUC Minas
-• Conformidade co LGPD
+- Prazo fixo de 6 meses
+- Orçamento limitado
+- Acesso restrito a PUC Minas
+- Conformidade co LGPD
 
 Premissas (condições para iniciar o projeto)
-• Aprovação rápida
-• Infraestrutura adequada
-• Aderência dos alunos da PUC Minas
-• Suporte Técnico pós lançamento 
+- Aprovação rápida
+- Infraestrutura adequada
+- Aderência dos alunos da PUC Minas
+- Suporte Técnico pós lançamento 
 
 # Estrutura Analítica do Projeto
 
