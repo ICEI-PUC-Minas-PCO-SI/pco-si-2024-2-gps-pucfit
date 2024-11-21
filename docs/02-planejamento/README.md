@@ -288,39 +288,14 @@ O plano de riscos visa garantir a identificação, análise e resposta eficaz ao
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-
-> Indique:
-> Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
-> Descrição do Risco: *ex.: Cliente não aparenta ter muito interesse no projeto*
-> Impacto: *Baixo / Médio / Alto*
-> Risco: *Baixo / Médio / Alto*
-> Medidas de Prevenção: *Medidas que devem ser adotadas para evitar que o risco se concretize*
-> Medidas de Contingência: *Medidas que devem ser adotadas caso o risco se concretize*
->
-> *Obs.: Para determinar o risco considere a seguinte combinação entre Probabilidade e Impacto:
-
-| Probabilidade | Impacto       | Risco         |
-|---------------|---------------|---------------|
-| Baixo         | Baixo         | Baixo         |
-| Médio         | Médio         | Médio         |
-| Alto          | Alto          | Alto          |
-| Baixo         | Médio         | Médio         |
-| Médio         | Baixo         | Médio         |
-| Baixo         | Alto          | Médio         |
-| Alto          | Baixo         | Médio         |
-| Médio         | Alto          | Alto          |
-| Alto          | Médio         | Alto          |
-
+|Cliente              |Desinteresse ou baixa participação dos stakeholders no projeto|Médio|Médio|Médio|Realizar reuniões regulares com os stakeholders para alinhamento de expectativas; Apresentar protótipos intermediários para engajar e coletar feedback constante.|
+|Cronograma           |Atrasos nas entregas intermediárias devido a problemas técnicos ou indisponibilidade da equipe.|Alto|Alto|Alto|Divisão clara de tarefas e responsabilidades entre os membros da equipe. Realizar reuniões diárias (daily stand-up) para monitorar o progresso.|
+|Orçamento            |Exceder o orçamento devido a custos não planejados com software ou infraestrutura.|Médio|Médio|Médio|Monitoramento constante dos custos e comparação com o orçamento planejado. Uso de ferramentas gratuitas ou de baixo custo sempre que possível.|
+|Aquisição de Produtos|Atraso na aquisição de licenças ou ferramentas essenciais para o desenvolvimento.|Médio|Médio|Médio|Planejamento antecipado para identificar e adquirir ferramentas necessárias. Estabelecimento de um responsável para gerir aquisições|
+|Equipe               |Rotatividade ou indisponibilidade de membros-chave da equipe.|Alto|Alto|Alto|Documentar o progresso e as decisões do projeto para facilitar transições. Oferecer suporte e acompanhamento constante aos membros da equipe.|
+|Tecnologia           |Dificuldade na integração entre os diferentes módulos do sistema (front-end, back-end e banco de dados).|Alto|Alto|Alto|Planejar e documentar a arquitetura do sistema antes do início do desenvolvimento. Realizar testes de integração regularmente durante o ciclo de desenvolvimento.|
+|Usuário Final        |Resistência dos usuários ao uso do aplicativo devido à falta de familiaridade ou utilidade percebida.|Médio|Médio|Médio|Conduzir pesquisas com os alunos para entender suas necessidades e expectativas. Oferecer tutoriais ou materiais de suporte para facilitar o uso do aplicativo.|
+|Documentação         |Atrasos na atualização de documentos do projeto, como atas de reunião ou cronograma.|Baixo|Baixo|Baixo|Definir responsáveis específicos para manter a documentação atualizada. Criar lembretes automáticos em ferramentas como Teams ou e-mail para revisões periódicas.|
 
 ```diff
 + Tarefa 12:
