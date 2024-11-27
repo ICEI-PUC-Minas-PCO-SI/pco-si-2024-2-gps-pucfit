@@ -235,84 +235,87 @@ O orçamento do projeto foi elaborado para garantir a alocação eficiente dos r
 ### Documento Editável
 [Plano de Aquisição editavél](https://docs.google.com/document/d/1UQjmyVtPL_-MGcNb_FXhEbOyI8LPPknP6C9EpwTjCCs/edit?tab=t.0)
 
-```diff
-+ Tarefa 10:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 11:
-+ Plano de Comunicação
-```
 
 ## Plano de Comunicação
 
-...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
-
-> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
-> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
-> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
+O Plano de Comunicação do projeto PUC Treine define estratégias claras para garantir a troca eficaz de informações entre a equipe e os stakeholders. Ele especifica os métodos de comunicação (como e-mail, Teams, DocuSign e documentos compartilhados), a frequência com que as informações devem ser atualizadas (diariamente, semanalmente ou conforme necessário) e os responsáveis por cada tipo de comunicação, como o gerente de projeto e consultores externos. Esses elementos ajudam a prevenir mal-entendidos, promover alinhamento e engajamento, além de assegurar que todas as partes estejam bem informadas e alinhadas com os objetivos do projeto
 
 ### Plano de Comunicação do Projeto
 
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+# Plano de Comunicação
+
+| **Entregável**            | **Público Alvo**               | **Método de Comunicação**                                       | **Frequência**               | **Responsável**                  |
+|---------------------------|--------------------------------|-----------------------------------------------------------------|------------------------------|----------------------------------|
+| Ata de reunião            | Equipe do projeto             | E-mail, Teams, DocuSign                                         | Após cada reunião            | Gerente de projeto              |
+| Declaração de escopo      | Stakeholders, Equipe          | E-mail, Documento compartilhado, DocuSign                      | Inicial, revisado conforme necessário | Gerente de projeto        |
+| WBS                       | Equipe de desenvolvimento     | Documento compartilhado, GitHub, Visual Studio                 | Após finalização             | Gerente de projeto              |
+| Dicionário da WBS         | Equipe de desenvolvimento     | Documento compartilhado, GitHub, Visual Studio                 | Após finalização             | Consultoria externa             |
+| Cronograma                | Stakeholders e equipe         | Documento compartilhado, Teams, E-mail                         | Mensalmente ou a cada atualização | Gerente de projeto, Consultoria externa |
+| Lista de Riscos           | Stakeholders e equipe         | E-mail, Documento compartilhado, DocuSign                      | Mensalmente                  | Gerente de projeto              |
+| Plano de qualidade        | Equipe de qualidade           | E-mail, Documento compartilhado, DocuSign                      | Após aprovação e revisão     | Gerente de projeto              |
+| Plano de projeto          | Stakeholders e equipe         | E-mail, Documento compartilhado, Teams, DocuSign               | Após finalização e revisão   | Gerente de projeto              |
+| Relatório de Progresso    | Stakeholders e equipe         | E-mail, Documento compartilhado, Teams, GitHub                 | Quinzenal                    | Gerente de projeto              |
+| Relatório de Aderência    | Equipe de qualidade           | E-mail, Documento compartilhado, Teams, GitHub                 | Mensalmente                  | Consultoria externa             |
+| Checklists de Inspeção    | Equipe de qualidade           | E-mail, Documento compartilhado, Teams, GitHub                 | Durante as inspeções         | Gerente de projeto, Consultoria externa |
+| Completar com artefatos   | Equipe de desenvolvimento     | Documento compartilhado, Teams, GitHub                         | Conforme as necessidades     | Gerente de projeto              |
 
 > Legenda:
-> - Público: a quem se destina a comunicação.
-> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
-> - Freqüência: diária, semanal, quinzenal, mensal, etc.
-> - Responsável: pessoa responsável pela comunicação.
+
+- **Público:** A quem se destina a comunicação.
+- **Método de Comunicação:** E-mail, reunião presencial, reunião virtual, etc.
+- **Frequência:** Diária, semanal, quinzenal, mensal, etc.
+- **Responsável:** Pessoa responsável pela comunicação.
 
 ### Plano de Gerência de Comunicação
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
-
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- **Microsoft Teams**  
+   - [Link de acesso](https://teams.microsoft.com)  
+   - Utilizado para comunicação diária, reuniões e discussões rápidas entre os membros da equipe.
+2. **GitHub**  
+   - [Link de acesso]([https://github.com](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-pucfit/tree/main))  
+   - Controle de versão do código, documentação técnica e rastreamento de mudanças nos artefatos.
+3. **Documentos Compartilhados (Google Drive/OneDrive)**  
+   - [Google Drive](https://drive.google.com) | [OneDrive](https://onedrive.live.com)  
+   - Para armazenamento e colaboração em documentos e relatórios do projeto, com edições em tempo real.
+4. **DocuSign**  
+   - [Link de acesso](https://www.docusign.com)  
+   - Ferramenta para assinaturas digitais em atas, documentos oficiais e projetos finalizados.
+5. **E-mail**  
+   - Utilizado para comunicações formais, envio de relatórios e documentação final aos stakeholders.
 - Papéis:
-- - ...
-  - ...
-  - ...
+-1. **Gerente de Projeto:**
+   - Responsável por gerenciar a comunicação geral do projeto.
+   - Aprova e distribui documentos finais para a equipe e stakeholders.
+   - Define e controla as permissões de acesso aos artefatos do projeto.
+   - Monitora a implementação das estratégias de comunicação.
+2. **Desenvolvedores:**
+   - Atualizam os artefatos técnicos, como código-fonte e documentação, em ferramentas de controle de versão (GitHub).
+   - Documentam mudanças significativas realizadas durante o projeto.
+   - Colaboram na revisão de documentos compartilhados, sugerindo melhorias e ajustes.
+3. **Equipe de Qualidade:**
+   - Realiza inspeções de qualidade em documentos e código.
+   - Valida e aprova versões finais de artefatos antes de sua distribuição.
+   - Monitora a aderência às normas e padrões de qualidade definidos no projeto.
+4. **Stakeholders:**
+   - Recebem documentos finais para validação e assinatura, quando necessário.
+   - Têm acesso restrito a artefatos do projeto, visando assegurar confidencialidade.
+   - Fornecem feedback sobre relatórios de progresso e outras entregas-chave.
+5. **Consultoria Externa:**
+   - Dá suporte ao Gerente de Projeto em demandas específicas de comunicação e qualidade.
+   - Auxilia na validação técnica de artefatos e na revisão de documentos críticos.
+   - Participa de reuniões e inspeciona processos quando necessário.
+6. **Equipe de Suporte:**
+   - Garante que as ferramentas de comunicação e gestão (Teams, DocuSign, GitHub) estejam configuradas corretamente e operacionais.
+   - Resolve problemas técnicos relacionados ao acesso e uso das ferramentas.
+     
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
-
-```diff
-+ Tarefa 11:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 12:
-+ Riscos do Projeto
-```
+- **Clareza:** Garantir que as informações sejam transmitidas de forma compreensível para todos os envolvidos.  
+- **Objetividade:** Focar em aspectos relevantes e essenciais em cada comunicação.  
+- **Imparcialidade:** Tratar todos os membros e partes interessadas de maneira justa e equitativa.  
+- **Cordialidade:** Manter um tom respeitoso e profissional em todas as interações.  
+- **Documentação:** Todos os artefatos, atas e relatórios devem ser registrados em locais acessíveis à equipe.  
+- **Notificação:** Alterações importantes, reuniões e novas versões serão comunicadas previamente.
 
 ## Plano de Riscos
 
