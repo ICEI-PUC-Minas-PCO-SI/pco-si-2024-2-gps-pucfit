@@ -125,9 +125,9 @@ O orçamento do projeto foi elaborado para garantir a alocação eficiente dos r
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
 > Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
 
-## Plano de 
+## Plano de Qualidade
 
-...... DESCREVA SUCINTAMENTE O PLANO DE  UTILIZADO NO PROJETO ......
+O Plano de Qualidade define os critérios, metodologias e responsabilidades para garantir que o projeto atenda aos requisitos de usabilidade, segurança, funcionalidade e desempenho. São realizadas verificações como testes funcionais, de segurança e de usabilidade em artefatos específicos (ex.: telas de login, cadastro e cálculos), utilizando métricas como taxa de sucesso e conformidade com a LGPD. A equipe aplica padrões reconhecidos, como a norma ISO/IEC 9126, e práticas ágeis para avaliações contínuas. Ambientes simulados e de homologação são utilizados para testes, assegurando a qualidade antes da produção.
 
 # Plano de Qualidade
 
