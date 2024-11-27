@@ -223,7 +223,7 @@ O Plano de Comunicação do projeto PUC Treine define estratégias claras para g
    - [Link de acesso](https://teams.microsoft.com)  
    - Utilizado para comunicação diária, reuniões e discussões rápidas entre os membros da equipe.
 2. **GitHub**  
-   - [Link de acesso]([https://github.com](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-pucfit/tree/main))  
+   - [Link de acesso]([https://github.com](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-pucfit/tree/main)  
    - Controle de versão do código, documentação técnica e rastreamento de mudanças nos artefatos.
 3. **Documentos Compartilhados (Google Drive/OneDrive)**  
    - [Google Drive](https://drive.google.com) | [OneDrive](https://onedrive.live.com)  
