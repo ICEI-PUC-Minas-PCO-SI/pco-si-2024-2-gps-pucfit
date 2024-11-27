@@ -15,11 +15,6 @@
   - [Plano de Riscos](#plano-de-riscos)
 
 -----
-```diff
-+ Tarefa 04:
-+ Escopo e Estrutura Analítica do Projeto
-```
-
 # Escopo do Projeto
 
 Iniciação: Aprovação do escopo e requisitos, disponibilidade de recursos, contratos e acordos com os fornecedores,
@@ -56,34 +51,11 @@ Premissas (condições para iniciar o projeto)
 
 ![EAP](https://github.com/user-attachments/assets/05d213e2-ae69-4cf3-9d9b-0c3b85a35ce9)
 
-```diff
-+ Tarefa 04:
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 05:
-+ Matriz de Responsabilidades (RACI)
-```
-
 # Matriz de Responsabilidades
 
 ![Raci_Puc](https://github.com/user-attachments/assets/ddecadb9-aaba-4c06-acea-12744699bc80)
 
 ![RACI RH](https://github.com/user-attachments/assets/1785add6-7f81-4c03-a66b-efa6a97d24fd)
-
-
-```diff
-+ Tarefa 05:
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 07:
-+ Cronograma do Projeto
-```
 
 # Cronograma do Projeto
 
@@ -138,18 +110,6 @@ Marco 6: Encerramento do projeto.
 
 [Cronograma do Projeto](https://github.com/user-attachments/files/17852603/Projeto.puc.Training.pdf)
 
-
-```diff
-+ Tarefa 07:
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 08:
-+ Orçamento do Projeto
-```
-
 # Orçamento do Projeto
 
 O orçamento do projeto foi elaborado para garantir a alocação eficiente dos recursos financeiros ao longo de seis fases: Inicialização, Planejamento, Modelagem, Desenvolvimento, Entrega e Pós-entrega, totalizando R$ 249.230,00. Cada etapa considera custos diretos e indiretos, abrangendo desde o planejamento inicial até o suporte pós-entrega, com destaque para o Desenvolvimento, fase mais longa e dispendiosa (R$ 121.800,00). O planejamento financeiro inclui análise de riscos e imprevistos, assegurando transparência, controle de custos e alinhamento com as expectativas econômicas e operacionais, contribuindo para o sucesso do projeto dentro do prazo e do orçamento previstos.
@@ -158,22 +118,12 @@ O orçamento do projeto foi elaborado para garantir a alocação eficiente dos r
 
 - [Cronograma e Orçamento do Projeto - Editável](artefatos/Orcamento.mpp)
 
-```diff
-+ Tarefa 08:
-+ Fim da seção a ser atualizada.
-```
-
 # Planos de Gerenciamento
 
 > Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
 > Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, , recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
 > Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
-
-```diff
-+ Tarefa 09:
-+ Checklist de 
-```
 
 ## Plano de 
 
@@ -333,12 +283,6 @@ O plano de riscos visa garantir a identificação, análise e resposta eficaz ao
 |Usuário Final        |Resistência dos usuários ao uso do aplicativo devido à falta de familiaridade ou utilidade percebida.|Médio|Médio|Médio|Conduzir pesquisas com os alunos para entender suas necessidades e expectativas. Oferecer tutoriais ou materiais de suporte para facilitar o uso do aplicativo.|
 |Documentação         |Atrasos na atualização de documentos do projeto, como atas de reunião ou cronograma.|Baixo|Baixo|Baixo|Definir responsáveis específicos para manter a documentação atualizada. Criar lembretes automáticos em ferramentas como Teams ou e-mail para revisões periódicas.|
 
-```diff
-+ Tarefa 12:
-+ Fim da seção a ser atualizada.
-```
-
------
 
 
 
