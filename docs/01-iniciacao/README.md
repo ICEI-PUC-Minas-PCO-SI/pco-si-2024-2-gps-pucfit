@@ -27,11 +27,6 @@
 
 # Introdução
 
-```diff
-+ Tarefa 01:
-+ Tema do projeto e lista de Stakeholders
-```
-
 ## Problema
 
 O problema que esse projeto busca resolver é a falta de acompanhamento detalhado das atividades físicas dos alunos da PUC Minas. Atualmente, pode ser difícil para os alunos saberem quais grupos musculares estão sendo mais trabalhados e com que frequência, o que pode resultar em treinos desequilibrados ou pouco eficientes. Além disso, a ausência de uma ferramenta de monitoramento impede que os alunos tenham uma visão clara do progresso em seus exercícios, o que pode dificultar o alcance de seus objetivos de saúde e desempenho físico. 
@@ -70,18 +65,6 @@ O produto final do aplicativo deve garantir precisão e confiabilidade na coleta
 | Dev          | Garantir a usabilidade e a manutenção do sistema | Alta       | Alta                | Apoiador | Responsável pelo desenvolvimento e manutenção   |
 | GP           | Gestão e acompanhamentos de metas                | Alta       | Alta                | Apoiador | Responsável pelo desenvolvimento e manutenção   |
 | Ux/Ui        | Garantir a melhor interação com o usuário        | Média      | Média               | Apoiador | Entender o que melhor incentivaria o uso do app |
-
-```diff
-+ Tarefa 01
-+ Fim da seção a ser atualizada.
-```
-
-
------
-```diff
-+ Tarefa 02
-+ Termo de Abertura do Projeto
-```
 
 # Termo de Abertura do Projeto
 
@@ -212,17 +195,6 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |M-5  | Fase de testes e validação                  |
 |M-6  | Entrega final do projeto                    |
 
-```diff
-+ Tarefa 02
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 03:
-+ Metodologia do Projeto
-```
-
 # Metodologia
 
 A metodologia ágil utilizada neste projeto será baseada no Scrum, uma das abordagens mais populares no desenvolvimento de software. O projeto será dividido em sprints de duas semanas, permitindo entregas contínuas e incrementais de funcionalidades. Cada sprint incluirá as etapas de planejamento, desenvolvimento, revisão e retrospectiva, promovendo melhorias contínuas no processo. A equipe, composta por desenvolvedores, designers e gestores, terá reuniões diárias (Daily Stand-ups) para alinhar o progresso e ajustar tarefas conforme necessário. O uso dessa metodologia garante flexibilidade para adaptar o escopo do projeto conforme surgem novas demandas ou feedback dos usuários, além de garantir uma comunicação eficiente entre todos os envolvidos, minimizando riscos e atrasos.
@@ -250,10 +222,5 @@ A metodologia ágil utilizada neste projeto será baseada no Scrum, uma das abor
 | Banco de Dados | MySQL | [https://mysql.com](https://www.mysql.com/) | Banco de dados relacional de código aberto, amplamente utilizado e confiável |
 | IDE | Visual Studio Code | [https://visualstudio.com](https://code.visualstudio.com/) | Ferramenta gratuita, leve, suporta extensões para diversas linguagens |
 
-
-```diff
-+ Tarefa 03:
-+ Fim da seção a ser atualizada.
-```
 
 ----
