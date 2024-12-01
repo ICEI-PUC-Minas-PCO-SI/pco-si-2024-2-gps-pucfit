@@ -27,14 +27,5 @@ Fases do Gerenciamento do Projeto:
 5. [Encerramento](docs/05-encerramento)
 
 ## Apresentação do Trabalho
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
-
-> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
-
 [![Imagem do Trabalho](https://img.youtube.com/vi/gRFGXn1IME8/maxresdefault.jpg)](https://www.youtube.com/watch?v=gRFGXn1IME8)
 
